@@ -1,0 +1,57 @@
+p {
+  color: white;
+}
+.navbar-brand {
+  font-family: "Are You Serious", cursive;
+  color: gold;
+  font: bold;
+  font-size: 4rem;
+}
+.linksandshearch {
+  justify-content: flex-end;
+}
+.custombg {
+  background: url("/images/hogwarts-castle.jpg");
+  background-size: cover;
+}
+
+.custombg2 {
+  background: url("/images/hogwarts-staircase.jpg");
+  background-size: cover;
+}
+.nav-link,
+.big-heading {
+  color: gold;
+  font-size: 1.3rem;
+}
+
+.form-control {
+  background-color: gold;
+}
+
+.big-heading {
+  font-family: "Pacifico", cursive;
+  font-size: 3.5rem;
+  line-height: 2;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.carousel-item {
+  height: 700px;
+}
+#title2 {
+  justify-content: center;
+  color: gold;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  position: relative;
+  top: 30px;
+  z-index: 1;
+}
+
+.carousel-item > img {
+  object-fit: contain;
+}
